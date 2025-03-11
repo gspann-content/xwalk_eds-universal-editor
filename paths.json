@@ -3,5 +3,8 @@
     "/content/UniversalEditor/:/",
     "/content/UniversalEditor/configuration:/.helix/config.json",
     "/content/UniversalEditor/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/UniversalEditor/"
   ]
 }
