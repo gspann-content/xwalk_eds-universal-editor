@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/UniversalEditor/:/",
-    "/content/Universal-Editor/configuration:/.helix/config.json",
-    "/content/Universal-Editor/metadata:/metadata.json"
+    "/content/UniversalEditor/configuration:/.helix/config.json",
+    "/content/UniversalEditor/metadata:/metadata.json"
   ]
 }
